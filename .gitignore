@@ -7,3 +7,5 @@
 *.dae
 data/*
 logs/*
+nerf_example_data.zip
+workspace.code-workspace
